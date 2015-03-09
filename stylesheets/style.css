@@ -544,8 +544,8 @@ form li {
 
 .thanks-message {
     max-width: 640px;
-    height: 75px;
-    width: 30%;
+    height: 140px;
+    width: 35%;
     position:relative;
     left: -100%;
     opacity: 0;
