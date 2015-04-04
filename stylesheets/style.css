@@ -442,6 +442,7 @@ p {
 }
 
 #footer-content {
+    padding-top: 15px;
     max-width: 640px;
     margin: 0px auto;
 }
@@ -454,6 +455,8 @@ p {
 #footer-content p {
     text-align: center;
     color: white;
+    font-size: 12px;
+    line-height: 0px;
 }
 
 form .name {

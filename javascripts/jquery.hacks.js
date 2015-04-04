@@ -5,6 +5,7 @@ $(window).scroll(function () {
 
 
 $(document).ready(function(){
+    $("#last-mod").text("Last Modified on "+this.lastModified)
     var height = $(window).scrollTop();
     placeLogo(height);
 });
